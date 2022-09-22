@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/12t9r8j7n9ynxbdzhs5p.png)
 
 <h1 align="center"> Hacktoberfest 2022</h1>
 
