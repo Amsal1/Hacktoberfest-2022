@@ -29,35 +29,31 @@
 - https://www.youtube.com/playlist?list=PLseEp7p6EwiZgLPknY4ITJxfoo75wqxph
 <br></br>
 ##
-  ### 2. Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.digitalocean.com/register) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
-  ![](https://i.imgur.com/4y4RoKK.png)
+  ### 2. Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.com/auth/) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
+  ![](https://i.imgur.com/42mLWbi.png)
 <br></br>
 ##
   ### 3. Then go to https://github.com/Amsal1/Hacktoberfest-2022 and click on *"star"*🌟 and *"fork"*🍴.
-  ![](https://i.imgur.com/R3rQ0OX.png)
+  ![](https://i.imgur.com/dCf53dd.png)
 <br></br>
 ##
   ### 4. Now click on the "*Programs*" folder and click on "*new file*"📁.
-  ![](https://i.imgur.com/EpIBPhg.png)
+  ![](https://i.imgur.com/dxVNd7F.jpg)
 <br></br>
 ##
-  ### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- prime.py
-  ![](https://i.imgur.com/LQzWB6Q.png)
+  ### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- prime.py and commit changes.
+  ![](https://i.imgur.com/pDPJfAS.jpg)
 <br></br>
 ##
-  ### 6. Go to the bottom of the page and click on the "*Commit changes*"✔️ button.
-  ![](https://i.imgur.com/TFMU859.png)
+  ### 6. On the next window, click on the "*Pull Request*"✔️ button.
+  ![](https://i.imgur.com/AO53JEN.jpg)
 <br></br>
 ##
-  ### 7. On the next window, click on the "*Pull Request*"✔️ button.
-  ![](https://i.imgur.com/21gW7ox.png)
-<br></br>
-##
-  ### 8. Click on the *"Create Pull Request Button"*✔️.
-  ![](https://i.imgur.com/VOH2JUV.png)
+  ### 7. Click on the *"Create Pull Request Button"*✔️.
+  ![](https://i.imgur.com/w9BMcyH.jpg)
   ##
   ### And again on the same button on the next window.
-  ![](https://i.imgur.com/5ozzPgm.png)
+  ![](https://i.imgur.com/Iq6zYSu.jpg)
 <br></br>
 
 
@@ -74,7 +70,7 @@
 - Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Look for the `hacktoberfest` topic to know if a repository/project is participating in Hacktoberfest.
 - Pull requests must be approved by a maintainer of the repository/project to count.
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
-- This year, the first **55,000** participants who successfully complete the challenge will be eligible to receive a prize.
+- This year, the first **40,000** participants who successfully complete the challenge will be eligible to receive a prize.
 
 ## <div align="center">Note:-</div>
 
@@ -83,7 +79,7 @@
 ##### 3. Deadline is 31st October.
 ##### 4. I will personally check each code and if I find any code not following the rules, then his/her Pull Request will be marked as invalid and it won't be counted.😥
 
-#### If you need any help, write your doubts at [IUL Student Developers](https://t.me/iulstudentdevs) at any time 24*7.😊
+#### If you need any help, write your doubts at [Discord](https://discord.gg/Y6rXfHdWs3) | [Telegram](https://t.me/iulstudentdevs) at any time 24*7.😊
 ##
 
 ## <div align="center">🤞Happy Hacking🤞</div>
