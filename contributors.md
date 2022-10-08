@@ -47,12 +47,21 @@
 </tr>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/EbrahimAfridi>
+            <img src=https://avatars.githubusercontent.com/u/85702641?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=ebrahim afridi/>
+            <br />
+            <sub style="font-size:14px"><b>ebrahim afridi</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/iamashay>
             <img src=https://avatars.githubusercontent.com/u/7845033?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=iamashay/>
             <br />
             <sub style="font-size:14px"><b>iamashay</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/saadahmadhere>
             <img src=https://avatars.githubusercontent.com/u/52596800?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=saadahmadhere/>
