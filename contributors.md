@@ -10,6 +10,13 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/akash-rajak>
+            <img src=https://avatars.githubusercontent.com/u/57003737?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Akash Rajak/>
+            <br />
+            <sub style="font-size:14px"><b>Akash Rajak</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Faranheit15>
             <img src=https://avatars.githubusercontent.com/u/48853180?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Faran Mohammad/>
             <br />
@@ -37,6 +44,8 @@
             <sub style="font-size:14px"><b>iamashay</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/saadahmadhere>
             <img src=https://avatars.githubusercontent.com/u/52596800?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=saadahmadhere/>
