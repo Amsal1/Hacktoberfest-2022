@@ -297,7 +297,7 @@ def Doraemon():
     black_aankha()
 
 
-if __name__ == '__main__git status':
+if __name__ == '__main__':
     screensize(800, 600, "#f0f0f0")
     pensize(3)
     speed(9)
